@@ -1,6 +1,6 @@
 {
-  "name": "extract-css-chunks-webpack-plugin",
-  "version": "0.0.0-development",
+  "name": "@spotim/extract-css-chunks-webpack-plugin",
+  "version": "5.1.0",
   "description": "Extract CSS from chunks into stylesheets + HMR. Supports Webpack 4 + SSR",
   "license": "MIT",
   "author": "James Gillmore <james@faceyspacey.com>",

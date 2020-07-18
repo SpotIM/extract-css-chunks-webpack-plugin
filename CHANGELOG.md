@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.1.0](https://github.com/faceyspacey/extract-css-chunks-webpack-plugin/compare/v4.7.4...v5.1.0) (2020-07-18)
+
+
+### Features
+
+* update deps ([#262](https://github.com/faceyspacey/extract-css-chunks-webpack-plugin/issues/262)) ([3a73ff5](https://github.com/faceyspacey/extract-css-chunks-webpack-plugin/commit/3a73ff531056d5bea7fa53fffac69ca4f7f9c97b))
+
+
+### Bug Fixes
+
+* add TS declarations ([#282](https://github.com/faceyspacey/extract-css-chunks-webpack-plugin/issues/282)) ([c3c22f8](https://github.com/faceyspacey/extract-css-chunks-webpack-plugin/commit/c3c22f8d9c5fa63a6293157645f272a597694684))
+* docs ([88f2bb1](https://github.com/faceyspacey/extract-css-chunks-webpack-plugin/commit/88f2bb13fa541fe3bac7217675ac2b08c7128bbe))
+* restore `insert` option functionality ([#265](https://github.com/faceyspacey/extract-css-chunks-webpack-plugin/issues/265)) ([b164efd](https://github.com/faceyspacey/extract-css-chunks-webpack-plugin/commit/b164efd0a50a3ac587fb4d916dfa0458e1195a58)), closes [faceyspacey/extract-css-chunks-webpack-plugin#264](https://github.com/faceyspacey/extract-css-chunks-webpack-plugin/issues/264)
+* **deps:** update dependency loader-utils to v2 ([#251](https://github.com/faceyspacey/extract-css-chunks-webpack-plugin/issues/251)) ([e0fa3e3](https://github.com/faceyspacey/extract-css-chunks-webpack-plugin/commit/e0fa3e32b0a3c23b125e45d34694e0e32075420f))
+* **deps:** update dependency webpack to v4.42.0 ([#247](https://github.com/faceyspacey/extract-css-chunks-webpack-plugin/issues/247)) ([24b808f](https://github.com/faceyspacey/extract-css-chunks-webpack-plugin/commit/24b808ff74a8b1fa6a2e184f0c534ebde9177383))
+* **deps:** update dependency webpack-external-import to v2 ([#232](https://github.com/faceyspacey/extract-css-chunks-webpack-plugin/issues/232)) ([3ad42db](https://github.com/faceyspacey/extract-css-chunks-webpack-plugin/commit/3ad42db05c417aaa11beb069772d6ce4c9962adc))
+* addressing comments from webpack on insert-string ([#226](https://github.com/faceyspacey/extract-css-chunks-webpack-plugin/issues/226)) ([d41bafa](https://github.com/faceyspacey/extract-css-chunks-webpack-plugin/commit/d41bafa3b442c0f36a8aa26fddfa5f158043a4e5))
+
 ### [0.9.0](https://github.com/webpack-contrib/extract-css-chunks-webpack-plugin/compare/v0.8.2...v0.9.0) (2019-12-20)
 
 
